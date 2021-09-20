@@ -2,7 +2,7 @@ PTE Protips is to guide people who would like to achieve their desired score wit
 It also helps to process Australia PR such as 887 visa and also posts SA attractions and Adelaide markets.
 
 References:
-* <a href="https://pteprotips.com" target="_blank">PTE Protips</a>![image](https://user-images.githubusercontent.com/82357545/133952569-c700029d-d8e3-4a74-b90a-f35ca4d4766f.png)
+* <a href="https://pteprotips.com" target="_blank">PTE Protips</a>
 * https://pteprotips.com/
 * https://pteprotips.com/how-to-score-79-in-pte-tips-and-templates/
 * https://pteprotips.com/pte-scoring-system/
